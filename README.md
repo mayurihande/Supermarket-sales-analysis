@@ -11,27 +11,41 @@ Dataset:
 The dataset contains 500 supermarket sales transactions.It includes information such as:
 
 Invoice ID
+
 Date
+
 Branch
+
 City
+
 Customer Type
+
 Gender
+
 Product
+
 Category
+
 Quantity
+
 Unit Price
+
 Payment Method
+
 Customer Rating
+
 Sales
 
 
 Dataset Link:
+
 Add the actual link to the dataset here:
 
 https://docs.google.com/spreadsheets/d/1QIX__4VObHFMEXnRM2xJyXmB5JAB2peHrJcQ41_U9TE/edit?gid=1062683546#gid=1062683546
 
 
 Technologies Used:
+
 
 Python
 
@@ -49,6 +63,7 @@ Seaborn
 Analysis Performed:
 
 The project includes:
+
 
 Loading and inspecting the dataset
 
