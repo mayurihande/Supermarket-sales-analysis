@@ -3,10 +3,12 @@ A Python-based supermarket sales analysis project using Pandas, NumPy, Matplotli
 
 Project Description: 
 
+
 This project analyzes supermarket sales data to find useful insights about products, branches, categories, customers, payment methods, sales, and customer ratings. The analysis helps understand sales performance and provides insights that can support business decisions related to inventory, promotions, customer engagement, payment methods, and branch performance.
 
 
 Dataset:
+
 
 The dataset contains 500 supermarket sales transactions.It includes information such as:
 
@@ -39,12 +41,15 @@ Sales
 
 Dataset Link:
 
+
+
 Add the actual link to the dataset here:
 
 https://docs.google.com/spreadsheets/d/1QIX__4VObHFMEXnRM2xJyXmB5JAB2peHrJcQ41_U9TE/edit?gid=1062683546#gid=1062683546
 
 
 Technologies Used:
+
 
 
 Python
@@ -60,9 +65,12 @@ Matplotlib
 Seaborn
 
 
+
+
 Analysis Performed:
 
 The project includes:
+
 
 
 Loading and inspecting the dataset
@@ -93,6 +101,8 @@ Identifying business insights and decisions
 Key Findings:
 
 
+
+
 Highest-selling product: Cheese — ₹27,906.30
 
 Best-performing branch: Branch C (Mumbai) — ₹72,469.45
@@ -110,6 +120,8 @@ Average customer rating: 3.99 out of 5
 
 
 Setup and Run Instructions:
+
+
 
 1.Install Python
 
